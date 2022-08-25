@@ -1,0 +1,36 @@
+
+
+
+FirstTest.java
+
+ Test guru 99
+ 
+    navigate to guru
+    find 4 tabs
+    click on 4 tabs
+    check title 
+    close chrome
+    
+    
+    
+    
+  firsttest.java
+    homepage.tab1.click()
+    homepage.tab2.click()
+    homepage.tab3.click()
+    homepage.tab4.click()
+  
+  homepage.java
+    * tab1 - findby xpath
+    * tab2  - findby xpath
+    * tab3 - findby xpath
+    * tab4 - findby xpath
+    
+    
+  
+      
+    
+
+    
+    
+    
